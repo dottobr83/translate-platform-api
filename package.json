@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imlinhanchao/translate-platform-api.git"
+    "url": "git+https://github.com/dottobr83/translate-platform-api.git"
   },
   "author": "Hancel.Lin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imlinhanchao/translate-platform-api/issues"
+    "url": "https://github.com/dottobr83/translate-platform-api/issues"
   },
-  "homepage": "https://github.com/imlinhanchao/translate-platform-api#readme",
+  "homepage": "https://github.com/dottobr83/translate-platform-api#readme",
   "dependencies": {
     "formidable": "^1.2.2",
     "translate-platforms": "0.0.7"
