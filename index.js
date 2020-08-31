@@ -4,7 +4,7 @@ const path = require("path");
 const formidable = require('formidable');
 const translate = require('translate-platforms');
 
-const github = 'https://github.com/imlinhanchao/translate-platform-api'
+const github = 'https://dottobr83.github.io/translate-platform-api'
 
 async function main() {
     createServer();
